@@ -8,7 +8,7 @@ Powered by Flask and Pandas libraries.
 #
 
 ### Deployed
-#### App has no UI
+#### (Pending Deployment)
 #
 
 ### Web Development
